@@ -1,4 +1,4 @@
-# Assignment 7: Visualizations and Story in Tableau
+# Visualizations and Story in Tableau
 
 In this project, I developed several visualizations and crafted a Tableau Story to convey discount-related insights effectively.
 
@@ -20,6 +20,5 @@ In this project, I developed several visualizations and crafted a Tableau Story 
 
 This project demonstrates skills in data visualization using Tableau, focusing on storytelling techniques to make data insights more accessible and actionable.
 
-
-
+##
 The project includes the following elements in the Tableau workbook "A7Starter Stories F2024": Attached in the repository
