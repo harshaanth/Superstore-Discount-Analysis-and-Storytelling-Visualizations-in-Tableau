@@ -1,4 +1,4 @@
-# Visualizations and Story in Tableau
+# Visualizations and Story in Tableau (Part 1)
 
 In this project, I developed several visualizations and crafted a Tableau Story to convey discount-related insights effectively.
 
@@ -18,6 +18,18 @@ In this project, I developed several visualizations and crafted a Tableau Story 
 4. **Tableau Story**  
    - Compiled the above visualizations into a cohesive Story within Tableau to illustrate discount trends and highlight areas of interest for stakeholders.
 
-##
-- This project demonstrates skills in data visualization using Tableau, focusing on storytelling techniques to make data insights more accessible and actionable.
-- The project includes the following elements in the Tableau workbook "A7Starter Stories F2024": Attached in the repository
+
+# Superstore Discount Analysis and Visualization (Part 2)
+
+For this in-class participation activity, I used the Superstore dataset to create an in-depth analysis of discounts, profit, and sales. This project includes three advanced visualizations that reveal key business insights through distinct color schemes and captions for clarity and engagement.
+
+## Visualizations:
+- **Pareto Chart**: Displays the cumulative impact of various categories on total sales, identifying primary sales drivers.
+- **Slope Chart**: Illustrates shifts in performance metrics (e.g., sales or profit) between two periods, emphasizing significant changes.
+- **Cycle Plot**: Explores monthly and seasonal trends in profit, discounts, and sales, providing a detailed view of recurring patterns.
+
+### Files in Repository:
+- `A7Starter Stories F2024.twbx`
+- `Oct 16 ClassWork - Discount, Sales, Profit Analysis - Pareto Chart, Slope Chart, Cycle Plot.twbx`
+
+Each visualization is designed to help uncover and communicate insights related to Superstore’s discount, sales, and profit performance over time.
