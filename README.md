@@ -28,8 +28,8 @@ For this in-class participation activity, I used the Superstore dataset to creat
 - **Slope Chart**: Illustrates shifts in performance metrics (e.g., sales or profit) between two periods, emphasizing significant changes.
 - **Cycle Plot**: Explores monthly and seasonal trends in profit, discounts, and sales, providing a detailed view of recurring patterns.
 
-### Files in Repository:
+Each visualization is designed to help uncover and communicate insights related to Superstore’s discount, sales, and profit performance over time.
+
+# Files in Repository:
 - `A7Starter Stories F2024.twbx`
 - `Oct 16 ClassWork - Discount, Sales, Profit Analysis - Pareto Chart, Slope Chart, Cycle Plot.twbx`
-
-Each visualization is designed to help uncover and communicate insights related to Superstore’s discount, sales, and profit performance over time.
