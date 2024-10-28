@@ -18,7 +18,6 @@ In this project, I developed several visualizations and crafted a Tableau Story 
 4. **Tableau Story**  
    - Compiled the above visualizations into a cohesive Story within Tableau to illustrate discount trends and highlight areas of interest for stakeholders.
 
-This project demonstrates skills in data visualization using Tableau, focusing on storytelling techniques to make data insights more accessible and actionable.
-
 ##
-The project includes the following elements in the Tableau workbook "A7Starter Stories F2024": Attached in the repository
+- This project demonstrates skills in data visualization using Tableau, focusing on storytelling techniques to make data insights more accessible and actionable.
+- The project includes the following elements in the Tableau workbook "A7Starter Stories F2024": Attached in the repository
